@@ -28,7 +28,7 @@ const App = () => {
                             Select you desired super power, to deploy.
                         </Text>
 
-                        {/* <View style={styles.pickerContainer}>
+                        <View style={styles.pickerContainer}>
                             <Picker style={styles.picker}>
                                 <Picker.Item
                                     label="Invisibility"
@@ -57,7 +57,7 @@ const App = () => {
                                     value="Telekinesis"
                                 />
                             </Picker>
-                        </View> */}
+                        </View>
 
                         <Text style={styles.footer}>Footer inc.</Text>
                     </View>
