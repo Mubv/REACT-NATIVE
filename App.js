@@ -23,14 +23,14 @@ const App = () => {
                     style={styles.scrollView}>
                     <View style={styles.sectionContainer}>
                         <Text style={styles.sectionTitle}>
-                            Esteira Dev Ops 1424
+                            Esteira Dev Ops Impacta
                         </Text>
 
                         <Text style={styles.sectionDescription}>
-                            Select you desired super power, to deploy.
+                            Esta é uma demo construida com carinho!
                         </Text>
 
-                        <View style={styles.pickerContainer}>
+                        {/* <View style={styles.pickerContainer}>
                             <Picker style={styles.picker}>
                                 <Picker.Item
                                     label="Invisibility"
@@ -59,7 +59,7 @@ const App = () => {
                                     value="Telekinesis"
                                 />
                             </Picker>
-                        </View>
+                        </View> */}
 
                         <Text style={styles.footer}>Footer inc.</Text>
                     </View>
