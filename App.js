@@ -22,7 +22,9 @@ const App = () => {
                     contentInsetAdjustmentBehavior="automatic"
                     style={styles.scrollView}>
                     <View style={styles.sectionContainer}>
-                        <Text style={styles.sectionTitle}>Esteira Dev Ops</Text>
+                        <Text style={styles.sectionTitle}>
+                            Esteira Dev Ops 1424
+                        </Text>
 
                         <Text style={styles.sectionDescription}>
                             Select you desired super power, to deploy.
